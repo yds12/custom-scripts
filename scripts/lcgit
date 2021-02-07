@@ -1,6 +1,8 @@
 #!/bin/bash
 
+# dependencies: git, tokei
 # parameter: address of remote git repository
+
 # This script clones a repository in a temporary directory and displays
 # programming language statistics about it, and cleans up in the end.
 
